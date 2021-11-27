@@ -1,0 +1,21 @@
+{
+    "name": "purple-cloud",
+    "displayName": "purple cloud",
+    "description": "a purple theme based on shades of purple",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "purple cloud",
+                "uiTheme": "vs-dark",
+                "path": "./themes/purple cloud-color-theme.json"
+            }
+        ]
+    }
+}
